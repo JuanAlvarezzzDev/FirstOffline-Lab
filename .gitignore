@@ -1,0 +1,22 @@
+
+.env
+node_modules/
+vendor/
+
+# Ocultar archivos de compilación
+dist/
+build/
+
+# Ocultar archivos de registro
+*.log
+
+# Ocultar archivos temporales
+*.tmp
+*.swp
+
+# Ocultar archivos de configuración de IDEs
+.vscode/
+.idea/
+*.iml
+first-database
+package-lock.json
